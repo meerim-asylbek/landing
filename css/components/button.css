@@ -1,0 +1,9 @@
+.button-red {
+background-color: #E60E05;
+padding: 16px 36px;
+border-radius: 50px;
+color: white;
+font-weight: bold;
+display: inline-block;
+margin-top: 15px;
+}

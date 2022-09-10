@@ -1,0 +1,19 @@
+.banner {
+  padding: 150px 0;
+  color: black;
+  margin: 0;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1, p {
+  text-align: right;
+}
+
+.banner h1 {
+  font-size: 3rem;
+}
+
+.banner p {
+  font-size: 1.5rem;
+}
